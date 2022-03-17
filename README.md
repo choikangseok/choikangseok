@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choikangseok)](https://github.com/choikangseok/github-readme-stats)
 
-[![KANGSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikangseok)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![KANGSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikangseok)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
